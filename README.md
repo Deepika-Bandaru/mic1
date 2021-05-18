@@ -45,5 +45,8 @@ item1 | item2
 pyton| 30%
 java  | 20%
 
+# email:
+
+mail id(deepikabandaru266@gmail.com)
 
 :smile:
